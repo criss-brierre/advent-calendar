@@ -1,4 +1,4 @@
-# Calendrier de l'Avent 2024
+# Calendrier de l'Avent 2025
 
 Un calendrier de l'avent interactif et festif créé avec React et Vite. Découvrez une nouvelle surprise chaque jour jusqu'à Noël !
 

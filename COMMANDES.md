@@ -65,7 +65,7 @@ git init
 git add .
 
 # Premier commit
-git commit -m "Initial commit - Calendrier de l'Avent 2024"
+git commit -m "Initial commit - Calendrier de l'Avent 2025"
 
 # Ajouter un remote
 git remote add origin <url-de-votre-repo>

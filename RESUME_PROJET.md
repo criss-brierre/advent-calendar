@@ -1,4 +1,4 @@
-# Résumé du Projet - Calendrier de l'Avent 2024
+# Résumé du Projet - Calendrier de l'Avent 2025
 
 ## Vue d'ensemble
 

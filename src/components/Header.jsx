@@ -28,7 +28,7 @@ const Header = () => {
 
         {/* Titre principal */}
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-white drop-shadow-2xl mb-2">
-          Calendrier de l'Avent 2024
+          Calendrier de l'Avent 2025
         </h1>
 
         {/* Sous-titre */}
